@@ -1,0 +1,26 @@
+.box {
+    display: flex;
+    padding: 30px 0px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin-bottom: 20px;
+}
+
+.button {
+    max-width: 100px;
+    padding: 5px 3px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: lightblue
+}
+
+.button:hover {
+    background-color: aquamarine;
+}

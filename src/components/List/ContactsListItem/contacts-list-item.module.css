@@ -1,0 +1,14 @@
+.item {
+    max-width: 300px;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.item:last-child {
+    margin-bottom: 0px;
+}
+
+.text {
+    margin-right: 20px;
+}

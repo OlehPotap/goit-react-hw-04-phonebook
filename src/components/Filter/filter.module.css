@@ -1,0 +1,10 @@
+.box {
+    display: flex;
+    flex-direction: column;
+
+    padding: 20px 0px;
+}
+
+.filter {
+    max-width: 180px;
+}
